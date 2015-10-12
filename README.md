@@ -5,5 +5,8 @@ Play this awesome game :)
 Technologies used:
 - HTML
 - CSS
-- JavaScript (jQuery)
+- JavaScript (AngularJS)
 - Bootstrap
+- Lodash
+
+PS: logos by https://www.iconfinder.com/ViconsDesign

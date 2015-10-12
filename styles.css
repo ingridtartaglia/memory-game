@@ -1,0 +1,28 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+body {
+    font-family: 'Indie Flower', cursive !important;
+    background-color: #E0E4CC !important;
+}
+
+h1 {
+    color: #9E83EA !important;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+@media screen and (min-width: 768px) {
+    h3 { font-size: 5em !important; }
+    img { padding-bottom: 2em; }
+}
+@media screen and (max-width: 768px) {
+    h1 { padding: 1em 0; }
+    h3 { font-size: 2em !important; }
+    img { padding-bottom: 1em; }
+}
+
+@media screen and (max-width: 500px) {
+    img { width: 50%; }
+}
