@@ -9,4 +9,4 @@ Technologies used:
 - Bootstrap
 - Lodash
 
-PS: logos by https://www.iconfinder.com/ViconsDesign
+PS: images by https://www.iconfinder.com/ViconsDesign and https://www.iconfinder.com/quizanswers
