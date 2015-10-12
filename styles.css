@@ -3,15 +3,18 @@
 }
 
 body {
-    font-family: 'Indie Flower', cursive !important;
-    background-color: #E0E4CC !important;
+    font-family: 'Pacifico', cursive;
+    background-color: #E0E4CC;
 }
 
 h1 {
-    color: #9E83EA !important;
+    color: #851616;
+    font-size: 3em;
     padding-top: 1em;
     padding-bottom: 2em;
 }
+
+h3 { color: #2c5c81; }
 
 @media screen and (min-width: 768px) {
     h3 { font-size: 5em !important; }
